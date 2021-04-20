@@ -1,0 +1,31 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-authorizemvp-dev-20701-authRole",
+            "UnauthRoleArn": "arn:aws:iam::506413584137:role/amplify-authorizemvp-dev-20701-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::506413584137:role/amplify-authorizemvp-dev-20701-authRole",
+            "Region": "us-east-2",
+            "DeploymentBucketName": "amplify-authorizemvp-dev-20701-deployment",
+            "UnauthRoleName": "amplify-authorizemvp-dev-20701-unauthRole",
+            "StackName": "amplify-authorizemvp-dev-20701",
+            "StackId": "arn:aws:cloudformation:us-east-2:506413584137:stack/amplify-authorizemvp-dev-20701/5dd3d5c0-a21c-11eb-8bd9-0a040eab8778",
+            "AmplifyAppId": "d3dtegiahtspj5"
+        },
+        "categories": {
+            "function": {
+                "authorizemvpdfdec2edPostConfirmation": {
+                    "GROUP": "Admin"
+                }
+            },
+            "auth": {
+                "authorizemvpdfdec2ed": {}
+            },
+            "hosting": {
+                "amplifyhosting": {
+                    "appId": "d3dtegiahtspj5",
+                    "type": "manual"
+                }
+            }
+        }
+    }
+}
